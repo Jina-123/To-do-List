@@ -1,0 +1,42 @@
+* {
+  background-image: url('./Assets/FondEcran.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%
+}
+.appli {
+  text-align: center;
+  width: 700px;
+  height: 700px;
+  margin: 50px;
+  padding: 60px;
+}
+h1 {
+  font-family: Comic Sans MS;
+  margin: 30px;
+  padding: 20px;
+}
+#bouton {
+  width: 50px;
+  height: 40px;
+  float: right;
+  margin: -40px;
+  padding: -30px;
+  background: green;
+  border: none;
+}
+input[type="text"] {
+  font-family: 'Courier New', Courier, monospace;
+  width: 890px;
+  height: 40px;
+  font-size: 1em;
+  text-align: left;
+  border: 2px solid black;
+}
+.text-menu {
+  font-family: 'Courier New', Courier, monospace;
+  border: none;
+}
+img {
+  float: right;
+}
